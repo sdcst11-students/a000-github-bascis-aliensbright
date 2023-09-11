@@ -1,4 +1,4 @@
-# First Assignment 
+# This is my first Github assignment
 
 ## 🤓 Course overview and learning outcomes 
 
