@@ -1,6 +1,7 @@
 # This is my first Github assignment
 This should be what I need to do
 I think I am getting the hang of it
+No I am not
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
